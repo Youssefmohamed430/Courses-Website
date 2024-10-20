@@ -637,6 +637,7 @@ input[type=checkbox]:checked + label {
     height: 50px;
     transition: 0.3s;
     text-decoration: none;
+    list-style : none ;
 }
 
 .page footer .box .social .facebook:hover {
